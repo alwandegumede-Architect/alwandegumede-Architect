@@ -9,7 +9,6 @@
 **Real-Time Fleet Management & Logistics Platform**
 
 🔴 Status: In Development  
-🌐 URL: [flowlogistics.co.za](https://flowlogistics.co.za)
 
 ---
 
