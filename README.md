@@ -25,7 +25,7 @@ I founded **[Kinetixon](https://kinetixon.com)** — a technology company that d
 
 | # | System | Description | Status | Details |
 |:-:|--------|-------------|:------:|:-------:|
-| 01 | **Kinetixon Logistics** | Real-time fleet management — live GPS, AI driver scoring, weather-aware routing | 🔴 Dev | [→ View](systems/01-flow-logistics.md) |
+| 01 | **Kinetixon Logistics** | Real-time fleet management — live GPS, AI driver scoring, weather-aware routing | 🔴 Dev | [→ View](systems/01-Kinetixon-Logistics.md) |
 | 02 | **StreamXChat** | Live streaming platform — built to compete globally with Twitch & Kick | 🔴 Dev | [→ View](systems/02-streamxchat.md) |
 
 ---
