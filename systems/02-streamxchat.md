@@ -9,7 +9,6 @@
 **Live Streaming Platform — Built to Compete Globally**
 
 🔴 Status: In Development  
-🌐 URL: [streamxchat.com](https://streamxchat.com)
 
 ---
 
